@@ -14,7 +14,7 @@
 
 print('game start...')
 value = 75 # 游戏设定值
-times = 0 # 猜的次数
+times = 1 # 猜的次数
 input_value = float(input('开始游戏，请输入数字：'))
 while input_value != value:
     if input_value > value:

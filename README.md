@@ -15,5 +15,9 @@ python learning
     *   08-while_loop `17.[Python循环]while循环讲解 2019/09/01 11:46`
     *   09-1_100sum `18.[Python循环]1-100数值之和小案例 2019/09/01 12:11`
     *   10-while_number_game `19.[Python循环]猜数字小游戏 2019/09/01 13:14`
+    *   11-while_jiujiu `20.[Python循环]while版九九乘法表 2019/09/02 22:21`
+    *   12-break `21.[Python循环]break语句 2019/09/02 22:42`
+    *   13-continue `22.[Python循环]continue语句 2019/09/02 23:08`
+    *   14-for_loop `23.[Python循环]for循环讲解 2019/09/02 23:44`
 * Python学习作业
     * 12_homework `12.作业 2019/08/31 23:01`
