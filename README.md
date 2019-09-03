@@ -19,5 +19,7 @@ python learning
     *   12-break `21.[Python循环]break语句 2019/09/02 22:42`
     *   13-continue `22.[Python循环]continue语句 2019/09/02 23:08`
     *   14-for_loop `23.[Python循环]for循环讲解 2019/09/02 23:44`
+    *   15-string_intro `25.[Python字符串]字符串介绍 2019/09/03 23:34`
 * Python学习作业
     * 12_homework `12.作业 2019/08/31 23:01`
+    * 24_homework `24.作业 2019/09/03 21:03`
