@@ -23,6 +23,7 @@ python learning
     *   16-string_append `26.[Python字符串]字符串拼接 2019/09/04 21:57`
     *   17-string_format `27.[Python字符串]字符串格式化 2019/09/04 22:51`
     *   18-string_index_slice `28.[Python字符串]字符串的下标操作 2019/09/04 23:22`
+    *   18-string_index_slice `29.[Python字符串]字符串的切片操作 2019/09/05 23:24`
 * Python学习作业
     * 12_homework `12.作业 2019/08/31 23:01`
     * 24_homework `24.作业 2019/09/03 21:03`
