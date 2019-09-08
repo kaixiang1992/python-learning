@@ -33,7 +33,9 @@ python learning
         *   20-string_escape `33.[Python字符串]常见转义字符 2019/09/08 12:57`
         *   20-string_escape `34.[Python字符串]原生字符串 2019/09/08 13:14`
         *   21-string_encode_decode `35.[Python字符串]字符串编码和解码 2019/09/08 13:58`
-        
+    * 常用容器数据类型
+        *   22-list_intro `37.[Python列表]列表介绍 2019/09/08 22:11`
+        *   23-loop_list `38.[Python列表]遍历列表 2019/09/08 22:32`
 * Python学习作业
     * Python入门
         * 12_homework `12.作业 2019/08/31 23:01`
