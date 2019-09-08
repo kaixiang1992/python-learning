@@ -61,3 +61,125 @@
 # print(type(text_arr)) # list类型
 # for item in text_arr:
 #     print(item)
+
+
+'''
+@description 2019/09/08 11:02
+'''
+
+# 7. startswith: 判断一个字符串是否以某个字符串开始
+
+# text = 'hello python'
+# print(text.startswith('h')) #True
+# print(text.startswith('hello')) #True
+# print(text.startswith('ell')) # False
+
+# 8. endswith：判断一个字符串是否以某个字符串结尾
+
+# text = 'hello python'
+# print(text.endswith('n')) # True
+# print(text.endswith('python')) # True
+# print(text.endswith('hello')) # False
+
+# 9.lower：将全部字符串转为小写
+# 注意事项：不改变原字符串
+
+# text = 'HELLO PYTHON'
+# new_text = text.lower()
+# print(text) # HELLO PYTHON
+# print(new_text) # hello python
+
+# 10.upper：将字符串全部改成大写
+# 注意事项：不改变原字符串
+
+# text = 'hello python'
+# new_text = text.upper()
+# print(text) # hello python
+# print(new_text) # HELLO PYTHON
+
+# 11. strip：将字符串左右的空格全部去掉
+# 注意事项：不改变原字符串
+# 类似于JavaScript： trim()
+
+# text = '   python    '
+# new_text = text.strip()
+# print(text) #    python    
+# print(new_text) # python
+
+
+# 12.lstrip：删除字符串左边的空格
+# 注意事项：不改变原字符串
+
+# text = '   python    '
+# new_text = text.lstrip()
+# print(text) #    python    
+# print(new_text) # python    
+
+# 13.rstrip：删除字符串右边的空格
+
+# text = '   python    '
+# new_text = text.rstrip()
+# print(text) #    python    
+# print(new_text) #    python
+
+'''
+@description 2019/09/08 12:05
+'''
+
+# 14.partition：从str(字符串)出现的第一个位置起
+# 包含str字符串：把字符串string分成一个3元素的元祖(string_pre_str, str, string_post_str)
+# 如果string中不包含str(字符串)则string_pre_str = string,固定返回3个元素的元祖
+# 不包含str字符串：(string, '', '')
+# 注意事项：不改变原字符串
+
+# text = 'hello python, hello javascript'
+# text_tuple = text.partition('python')
+# print(text) # hello python, hello javascript
+# print(text_tuple) # ('hello ', 'python', ', hello javascript')
+
+# text_tuple = text.partition('c++')
+# print(text) # hello python, hello javascript
+# print(text_tuple) # ('hello python, hello javascript', '', '')
+# print(type(text_tuple)) # tuple
+
+# 15.isalnum：如果string至少一个字符或所有字符，都是字母或数字，则返回True，否则返回False
+# 注意事项：检验字符串是否为：字母或数字构成
+
+# text = '1' # True
+# text = '123abcdefg' # True
+# text = '////?1213' # False
+# print(text.isalnum()) 
+
+# 16.isalpha：如果string至少一个字符并且所有字符都是字母，则返回True，否则返回False
+# 注意事项：校验字符串是否为：大写或小写字母构成
+
+# text = 'a' # True
+# text = 'Abc' # True
+# text = 'Abc123' # False
+# print(text.isalpha()) 
+
+# 17.isdigit：如果string只包含数字，则返回True，否则返回False
+# 注意事项：校验字符串是否为：大等于0的正整数
+
+# text = '123.133' # False
+# text = '123' # True
+# text = '-123' # False
+# text = '0' # True
+# print(text.isdigit())
+
+# 18.isspace：如果string中只包含空格，则返回True，否则返回False
+# 注意事项：检查字符串是否全部由空格组成
+
+# text = '   hello' # False
+# text = '   ' # True
+# text = '   hello   ' # False
+# print(text.isspace()) 
+
+# 19.format：格式化字符串
+
+country = '中国'
+province = '浙江'
+city = '杭州'
+# 当前居住地：中国,浙江,杭州
+print('当前居住地：{},{},{}'.format(country, province, city))
+print('当前居住地：{country},{province},{city}'.format(country = country, province = province, city = city))
