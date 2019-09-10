@@ -36,8 +36,9 @@ python learning
     * 常用容器数据类型
         *   22-list_intro `37.[Python列表]列表介绍 2019/09/08 22:11`
         *   23-loop_list `38.[Python列表]遍历列表 2019/09/08 22:32`
-        *   24-list_basic_use `38.[Python列表]列表的基本使用 2019/09/09 23:06`
-        *   25-list_methods `38.[Python列表]列表常用方法(1) 2019/09/09 23:44`
+        *   24-list_basic_use `39.[Python列表]列表的基本使用 2019/09/09 23:06`
+        *   25-list_methods `40.[Python列表]列表常用方法(1) 2019/09/09 23:44`
+        *   25-list_methods `41.[Python列表]列表常用方法(2) 2019/09/10 23:47`
 * Python学习作业
     * Python入门
         * 12_homework `12.作业 2019/08/31 23:01`

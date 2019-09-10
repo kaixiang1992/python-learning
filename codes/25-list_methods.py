@@ -76,3 +76,76 @@ insert_arr.insert(1, '你好')
 insert_arr.insert(len(insert_arr), '世界') 
 print(insert_arr) # ['hello', '你好', 'world', '世界']
 print(len(insert_arr)) # 4
+print('='*20) 
+
+'''
+@description 2019/09/10 23:47
+'''
+
+# 6.pop方法：移除列表中最后一个元素，并且返回该元素的值。
+
+pop_list = [1, 2, 3, 4]
+pop_item = pop_list.pop()
+print(pop_item) # 4
+print(pop_list) # [1, 2, 3]
+print('='*20) 
+
+# 7.remove方法：移除列表中第一个匹配的元素，不会返回这个被移除的元素的值。
+# 如果被移除的这个值不存在列表中，则会抛出一个异常。
+
+remove_list = [1, 2, 3, 4, 5, 1, 2]
+remove_list.remove(2)
+print(remove_list) # [1, 3, 4, 5, 1, 2]
+print('='*20)
+
+# 8.reverse：将列表中的元素反向存储。会更改原来列表的值
+
+reverse_list = [1, 2, 3, 4, 5]
+reverse_list.reverse() # [5, 4, 3, 2, 1]
+
+# 切片反转list，不会改变原list数据，产生新数据
+# new_reverse_list = reverse_list[-1::-1]
+# print(reverse_list)  # [1, 2, 3, 4, 5]
+# print(new_reverse_list) # [5, 4, 3, 2, 1]
+
+print(reverse_list)  # [5, 4, 3, 2, 1]
+print('='*20)
+
+# 9.sort：将列表中的元素进行排序。会改变原来列表中的位置。
+
+sort_arr = [10, 7, 3, 12, 22, 1, 2, 5, 9]
+# 从小到大，顺序
+# sort_arr.sort() 
+# print(sort_arr) # [1, 2, 3, 5, 7, 9, 10, 12, 22]
+
+sort_arr.sort(reverse = True)
+print(sort_arr) # [22, 12, 10, 9, 7, 5, 3, 2, 1]
+print('='*20)
+
+
+# 10.del关键字：根据下标删除元素，改变原来列表
+
+del_list = [10, 7, 3, 12, 22, 1, 2, 5, 9]
+del del_list[0] 
+print(del_list) # [7, 3, 12, 22, 1, 2, 5, 9]
+print('='*20)
+
+# 11.in关键字：使用in判断表中是否有某个元素
+
+in_list = [10, 7, 3, 12, 22, 1, 2, 5, 9]
+in_item_position = in_list.index(10)
+print(in_item_position)
+if 10 in in_list:
+    print('True')
+else:
+    print('False')
+
+print('='*20)
+
+# 12. list函数：将其他数据类型转化为列表,不改变原数据，产生新数据
+
+word_str = 'hello world'
+new_word_list = list(word_str)
+print(word_str) # hello world
+print(new_word_list) # ['h', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r', 'l', 'd']
+print(type(new_word_list)) # list
