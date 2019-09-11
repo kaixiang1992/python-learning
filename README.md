@@ -39,6 +39,8 @@ python learning
         *   24-list_basic_use `39.[Python列表]列表的基本使用 2019/09/09 23:06`
         *   25-list_methods `40.[Python列表]列表常用方法(1) 2019/09/09 23:44`
         *   25-list_methods `41.[Python列表]列表常用方法(2) 2019/09/10 23:47`
+        *   26-tuple_demo `42.[Python元组]元组的基本使用 2019/09/11 22:53`
+        *   26-tuple_demo `43.[Python元组]元组的常用操作和存在意义 2019/09/11 23:26`
 * Python学习作业
     * Python入门
         * 12_homework `12.作业 2019/08/31 23:01`
