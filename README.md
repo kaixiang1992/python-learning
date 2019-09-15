@@ -41,6 +41,21 @@ python learning
         *   25-list_methods `41.[Python列表]列表常用方法(2) 2019/09/10 23:47`
         *   26-tuple_demo `42.[Python元组]元组的基本使用 2019/09/11 22:53`
         *   26-tuple_demo `43.[Python元组]元组的常用操作和存在意义 2019/09/11 23:26`
+        *   27-dict_basic `44.[Python字典]字典介绍 2019/09/14 10:14`
+        *   27-dict_basic `45.[Python字典]字典基本操作 2019/09/14 11:50`
+        *   28-dict_methods `46.[Python字典]字典常用方法(1) 2019/09/14 13:38`
+        *   28-dict_methods `47.[Python字典]字典常用方法(2) 2019/09/14 14:10`
+        *   29-dict_loop `48.[Python字典]遍历字典 2019/09/15 12:38`
+    * 函数
+        *   30-func_intro `50.[Python函数]函数介绍 2019/09/15 15:14`
+        *   31-func_arguments `51.[Python函数]位置参数和关键字参数 2019/09/15 15:53`
+        *   31-func_arguments `52.[Python函数]缺省的位置参数和关键字参数 2019/09/15 16:47`
+        *   31-func_arguments `53.[Python函数]默认参数 2019/09/15 17:27`
+        *   32-func_return `54.[Python函数]函数的返回值 2019/09/15 18:34`
+        *   33-func_scope `55.[Python函数]全局变量和局部变量 2019/09/15 18:53`
+        *   33-func_scope `56.[Python函数]global关键字 2019/09/15 19:24`
+        *   33-func_scope `57.[Python函数]可变数据类型全局变量 2019/09/15 20:47`
+        *   34-sort_advance `58.[Python函数]sort方法的高级用法 2019/09/15 22:00`
 * Python学习作业
     * Python入门
         * 12_homework `12.作业 2019/08/31 23:01`
@@ -48,3 +63,5 @@ python learning
         * 24_homework `24.作业 2019/09/03 21:03`
     * 字符串
         * 36_homework `36.作业 2019/09/08 14:23`
+    * 常用容器数据类型
+        * 49_homework `49.作业 2019/09/15 12:52`
