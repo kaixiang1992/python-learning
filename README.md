@@ -56,7 +56,8 @@ python learning
         *   33-func_scope `56.[Python函数]global关键字 2019/09/15 19:24`
         *   33-func_scope `57.[Python函数]可变数据类型全局变量 2019/09/15 20:47`
         *   34-sort_advance `58.[Python函数]sort方法的高级用法 2019/09/15 22:00`
-
+        *   35-func_lambda `59.[Python函数]lambda表达式 2019/09/16 21:56`
+        *   36-lambda_homework `60.[Python函数]函数式编程作业 2019/09/16 22:52`
 * Python学习作业
     * Python入门
         * 12_homework `12.作业 2019/08/31 23:01`
@@ -66,6 +67,8 @@ python learning
         * 36_homework `36.作业 2019/09/08 14:23`
     * 常用容器数据类型
         * 49_homework `49.作业 2019/09/15 12:52`
+    * 函数
+        * 62_homework `62.作业 2019/09/16 23:22`
 
 * Python学习应用`零基础入门学习Python(第2版)`
     * 第2章 用Python设计第一个游戏
