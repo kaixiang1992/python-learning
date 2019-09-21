@@ -61,6 +61,12 @@ python learning
     * 文件
         *   37-file_basic `63.[Python文件]文件基本操作 2019/09/17 23:09`
         *   37-file_basic `64.[Python文件]python2和3打开文件的默认编码 2019/09/17 23:38`
+        *   37-file_basic `65.[Python文件]以r、w、a、w+、r+打开文件 2019/09/21 13:00`
+        *   38-file_read `66.[Python文件]文件读取的三种方式 2019/09/21 16:23`
+        *   38-file_read `67.[Python文件]大文件读取方式 2019/09/21 17:06`
+        *   39-file_write `68.[Python文件]文件两种写入操作 2019/09/21 17:26`
+        *   40-file_position `69.[Python文件]文件定位之tell方法 2019/09/21 23:04`
+        *   40-file_position `70.[Python文件]文件定位之seek方法 2019/09/21 23:20`
 
 * Python学习作业
     * Python入门
