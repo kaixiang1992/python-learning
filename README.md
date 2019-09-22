@@ -67,6 +67,12 @@ python learning
         *   39-file_write `68.[Python文件]文件两种写入操作 2019/09/21 17:26`
         *   40-file_position `69.[Python文件]文件定位之tell方法 2019/09/21 23:04`
         *   40-file_position `70.[Python文件]文件定位之seek方法 2019/09/21 23:20`
+        *   41-file_with `71.[Python文件]with语句优化文件操作 2019/09/22 12:10`
+        *   42-file_demo1 `72.[Python文件]文件操作实战（1）：拷贝文件 2019/09/22 12:27`
+        *   43-file_demo2 `73.[Python文件]文件操作实战（2）：移除文件中的病毒代码 2019/09/22 14:07`
+        *   44-copy_image `73.[Python文件]作业-复制图片作业讲解 2019/09/22 18:51`
+    * Python进阶
+        *   45-pet_manager `77.【Python文件】作业-宠物寄养管理系统（1） 2019/09/22 22:40`
 
 * Python学习作业
     * Python入门
@@ -79,6 +85,9 @@ python learning
         * 49_homework `49.作业 2019/09/15 12:52`
     * 函数
         * 62_homework `62.作业 2019/09/16 23:22`
+    * 文件
+        * 75_homework `75.作业 2019/09/22 19:07`
+        * 76_homework `76.python基础练习题 2019/09/22 20:53(暂未编写)`
 
 * Python学习应用`零基础入门学习Python(第2版)`
     * 第2章 用Python设计第一个游戏
