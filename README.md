@@ -79,6 +79,9 @@ python learning
             *   02-pet_manager.py  `宠物寄养管理系统 2019/09/24 23:00`
             *   03-password_manager `密码本 2019/09/25 22:41` 
         *   46-object_basic `80.【Python面向对象】什么是面向对象 2019/9/27 23:30`
+        *   47-object_use `81.【Python面向对象】类和对象的基本使用 2019/9/29 22:03`
+        *   48-object_limit `82.【Python面向对象】访问限制（受保护和私有） 2019/9/29 22:50`
+        *   49-object_computer `83.【Python面向对象】用面向对象思想组装电脑 2019/9/29 23:19`
 
 * Python学习作业
     * Python入门
