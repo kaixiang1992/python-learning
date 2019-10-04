@@ -78,10 +78,31 @@ python learning
             *   01-copy_image.py `复制图片功能 2019/09/23 23:42` 
             *   02-pet_manager.py  `宠物寄养管理系统 2019/09/24 23:00`
             *   03-password_manager `密码本 2019/09/25 22:41` 
-        *   46-object_basic `80.【Python面向对象】什么是面向对象 2019/9/27 23:30`
-        *   47-object_use `81.【Python面向对象】类和对象的基本使用 2019/9/29 22:03`
-        *   48-object_limit `82.【Python面向对象】访问限制（受保护和私有） 2019/9/29 22:50`
-        *   49-object_computer `83.【Python面向对象】用面向对象思想组装电脑 2019/9/29 23:19`
+        * 封装
+            *   46-object_basic `80.【Python面向对象】什么是面向对象 2019/9/27 23:30`
+            *   47-object_use `81.【Python面向对象】类和对象的基本使用 2019/9/29 22:03`
+            *   48-object_limit `82.【Python面向对象】访问限制（受保护和私有） 2019/9/29 22:50`
+            *   49-object_computer `83.【Python面向对象】用面向对象思想组装电脑 2019/9/29 23:19`
+            *   50-object_delete `84.【Python面向对象】析构函数和引用计数 2019/10/02 17:28`
+            *   51-object_inherit `85.【Python面向对象】继承 2019/10/02 18:22`
+            *   52-object_overwrite `86.【Python面向对象】重写父类的方法 2019/10/04 10:44`
+        * 继承
+            *   53-object_private_subclass `87.【Python面向对象】子类不能继承父类的私有变量 2019/10/04 11:03`
+            *   54-object_new_old_class `88.【Python面向对象】新式类和旧式类 2019/10/04 11:29`
+            *   55-object_multi_inherit `89.【Python面向对象】多继承及其注意事项 2019/10/04 11:58`
+        * 多态
+            *   56-object_polymorphic `90.【Python面向对象】多态 2019/10/04 14:41`
+        *   57-object_class_property `91.【Python面向对象】类属性和实例属性 2019/10/04 15:08`
+        *   58-class_static_method `92.【Python面向对象】类方法和静态方法 2019/10/04 15:45`
+        *   59-class_new_method `93.【Python面向对象】__new__方法 2019/10/04 16:16`
+        *   60-object_singleton `94.【Python】单例设计模式 2019/10/04 16:55`
+        *   61-except_basic `95.【Python异常】异常及其处理（1） 2019/10/04 18:51`
+        *   62-except_use `96.【Python异常】异常及其处理（2） 2019/10/04 19:31`
+
+* Python模块和包 `module文件夹`  
+    *   01_module_basic `97.【Python模块和包】模块和包介绍 2019/10/04 20:26`
+    *   02_module_path `98.【Python模块和包】模块查找路径 2019/10/04 21:08`
+    *   03_module_all `99.【Python模块和包】__all__变量的作用 2019/10/04 22:01`
 
 * Python学习作业
     * Python入门
