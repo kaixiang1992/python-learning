@@ -103,6 +103,17 @@ python learning
     *   01_module_basic `97.【Python模块和包】模块和包介绍 2019/10/04 20:26`
     *   02_module_path `98.【Python模块和包】模块查找路径 2019/10/04 21:08`
     *   03_module_all `99.【Python模块和包】__all__变量的作用 2019/10/04 22:01`
+    *   loop_reference `100.【Python模块和包】import语句原理 2019/10/05 09:53`
+    *   loop_reference `101.【Python模块和包】循环引用 2019/10/05 11:02`
+    *   loop_reference `102.【Python模块和包】如何解决循环引用 2019/10/05 11:29`
+    *   04_name_property `103.【Python模块和包】__name__魔术变量 2019/10/05 11:45`
+
+* Python知识补充 `supplement文件夹`  
+    *   01_list_generator `105.【Python知识补充】列表生成式 2019/10/05 13:46`
+    *   02_three_operator `106.【Python知识补充】三目运算符 2019/10/05 14:03`
+    *   03_property `107.【Python知识补充】get和set方法 2019/10/05 14:48`
+    *   03_property copy.py `108.【Python知识补充】property装饰器 2019/10/05 15:43`
+    *   04_pet_oop `109.【Python知识补充】宠物寄养系统_面向对象版 2019/10/05 19:24`
 
 * Python学习作业
     * Python入门
